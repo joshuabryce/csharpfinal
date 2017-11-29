@@ -1,0 +1,10 @@
+C:\Users\w7056950\Source\Repos\New folder (2)\brycej\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\w7056950\Source\Repos\New folder (2)\brycej\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\w7056950\Source\Repos\New folder (2)\brycej\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\w7056950\Source\Repos\New folder (2)\brycej\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csprojResolveAssemblyReference.cache
+C:\Users\w7056950\Source\Repos\New folder (2)\brycej\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+C:\Users\w7056950\Source\Repos\New folder (2)\brycej\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\w7056950\Source\Repos\New folder (2)\brycej\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.Cache
+C:\Users\w7056950\Source\Repos\New folder (2)\brycej\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\w7056950\Source\Repos\New folder (2)\brycej\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\w7056950\Source\Repos\New folder (2)\brycej\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
